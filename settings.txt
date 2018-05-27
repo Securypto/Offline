@@ -1,0 +1,4 @@
+[DSG-CONFIG]
+Backupdironusb=DSGFILES
+Qrshowspeed=0.3
+Qrmoviesplit=100

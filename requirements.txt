@@ -1,0 +1,8 @@
+ecdsa
+Pillow==2.1.0
+qrcode
+pyqrcode
+transactions
+base58
+svgwrite
+ConfigParser

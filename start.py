@@ -30,7 +30,7 @@ import hashlib
 #tijdelijk uit
 #from ethereum import utils
 #
-#
+#test2
 
 
 import dsgclass

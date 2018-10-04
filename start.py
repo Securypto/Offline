@@ -29,6 +29,7 @@ import hashlib
 
 #tijdelijk uit
 #from ethereum import utils
+#
 
 import dsgclass
 from dsglanguages.english import *
